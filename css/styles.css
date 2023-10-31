@@ -1,0 +1,6 @@
+/* CSS desde Main va a estar repetido */
+* {
+ box-sizing: border-box;
+ color:darkmagenta;
+ margin:0px;
+}
